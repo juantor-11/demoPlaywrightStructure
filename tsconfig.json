@@ -2,12 +2,10 @@
   "compilerOptions": {
     "target": "ESNext",
     "module": "CommonJS",
-    "moduleResolution": "node",
-    "baseUrl": ".",
     "paths": {
-      "@pages": ["src/pages/index.ts"],
-      "@constants": ["src/constants/index.ts"],
-      "@utils": ["src/utils/index.ts"]
+      "@pages": ["./src/pages/index.ts"],
+      "@constants": ["./src/constants/index.ts"],
+      "@utils": ["./src/utils/index.ts"]
     }
   }
 }
