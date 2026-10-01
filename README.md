@@ -16,8 +16,7 @@ Asegúrate de tener instalado en tu sistema:
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/](https://github.com/)<TU_USUARIO>/<TU_REPO>.git
-   cd <TU_REPO>
+   git clone https://github.com/juantor-11/demoPlaywrightStructure.git
    ```
 
 2. Instala las dependencias del proyecto:
